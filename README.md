@@ -1,7 +1,7 @@
-# Личный проект «Кэт энерджи»
+# [Личный проект «Кэт энерджи](https://htmlacademy-adaptive.github.io/2408769-cat-energy-30/)
 
-* Студент: [Игорь Рихтер](https://up.htmlacademy.ru/adaptive/30/user/2408769).
-* Наставник: [Александр Медведев](https://htmlacademy.ru/profile/exteep).
+Студент: [Игорь Рихтер](https://up.htmlacademy.ru/adaptive/30/user/2408769).\
+Наставник: [Александр Медведев](https://htmlacademy.ru/profile/exteep).
 
 - Верстка html/css/js
 - Пропроцессоры scss/sass
